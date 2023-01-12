@@ -1,0 +1,28 @@
+{
+  "name": "js-practice-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anhthucua/js-practice-basic.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "ThuTran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anhthucua/js-practice-basic/issues"
+  },
+  "homepage": "https://github.com/anhthucua/js-practice-basic#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}
